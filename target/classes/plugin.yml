@@ -1,0 +1,4 @@
+name: Auto-Totem
+version: 1.0.0-BETA
+main: de.rembel.autototem.Main.AutoTotemMain
+api-version: 1.19
